@@ -57,7 +57,7 @@ This project is a front-end dashboard built with React. It includes:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/swift-dashboard.git
+git clone https://github.com/umaGannamani/swift-dashboard.git
 
 # Navigate into the folder
 cd swift-dashboard
