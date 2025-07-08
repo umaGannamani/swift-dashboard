@@ -1,0 +1,64 @@
+.dashboard {
+  font-family: Inter, sans-serif;
+  color: #1a1a1a;
+}
+
+.dashboard-header {
+  background: #20234c;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.user-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 2rem;
+  background: white;
+}
+
+th, td {
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+
+th {
+  cursor: pointer;
+  background: #f3f3f3;
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 2rem;
+  gap: 0.5rem;
+}
+
+.pagination button.active {
+  background: #20234c;
+  color: white;
+}
