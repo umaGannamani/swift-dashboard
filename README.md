@@ -13,7 +13,7 @@ This project is a front-end dashboard built with React. It includes:
 
 ## 🔗 Live Demo
 
-[Add your Vercel deployment link here]
+https://swift-dashboard-green.vercel.app/
 
 ---
 
